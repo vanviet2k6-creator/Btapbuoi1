@@ -109,7 +109,7 @@ fun ColoredBoxesScreen() {
         Spacer(modifier = Modifier.weight(1f))
 
         Text(
-            text = "Họ và tên – MSSV",
+            text = "Mai Văn Việt - BIT240253",
             color = Color.Black,
             fontSize = 15.sp,
             fontWeight = FontWeight.SemiBold,
